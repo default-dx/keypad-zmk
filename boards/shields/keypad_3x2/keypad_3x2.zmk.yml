@@ -1,0 +1,9 @@
+file_format: "1"
+id: keypad_3x2
+name: Keypad 3x2
+type: shield
+url: https://github.com/default-dx/keypad-zmk
+requires: [pro_micro]
+features:
+  - keys
+  - studio
